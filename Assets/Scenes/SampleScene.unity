@@ -292,12 +292,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77259e33d1873c240bfe23e74d30a454, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grayscaleEnabled: 1
+  displayResult: 3
   threshHoldMax: 255
   adaptiveType: 0
-  thresholdType: 0
-  blockSize: 9
-  param1: 5
+  thresholdType: 1
+  blockSize: 21
+  param1: 10
+  morphOperation: 3
+  structuringShape: 0
+  structuringSize: 5
+  iterationsCount: 1
+  contourChainApproxMethod: 1
+  showContours: 1
 --- !u!4 &1602642537
 Transform:
   m_ObjectHideFlags: 0

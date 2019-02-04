@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E9F78167-4F19-0903-54D4-8468A704F8F2}</ProjectGuid>
+    <ProjectGuid>{760BA5F1-0B5A-04F5-6333-B8DCDCBFF964}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,19 +62,19 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -277,62 +277,62 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 8">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 8.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 7">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 7.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 11">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 11.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 9">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 9.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 5">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 5.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 6">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 6.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 12">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 12.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources 1">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 1.dll</HintPath>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/Emgu.CV.UI.dll</HintPath>
     </Reference>
     <Reference Include="Emgu.CV.World">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/Emgu.CV.World.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/Emgu.CV.World.dll</HintPath>
     </Reference>
-    <Reference Include="ZedGraph.resources 2">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 2.dll</HintPath>
+    <Reference Include="ZedGraph">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.dll</HintPath>
     </Reference>
-    <Reference Include="ZedGraph.resources 4">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 4.dll</HintPath>
-    </Reference>
-    <Reference Include="Emgu.CV.UI">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/Emgu.CV.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph.resources">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources.dll</HintPath>
+    <Reference Include="ZedGraph.resources 1">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 1.dll</HintPath>
     </Reference>
     <Reference Include="ZedGraph.resources 10">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 10.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 10.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 11">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 11.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 12">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 12.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 2">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 2.dll</HintPath>
     </Reference>
     <Reference Include="ZedGraph.resources 3">
-      <HintPath>C:/Users/anthenry/source/TPOpenCV/Assets/Packages/ZedGraph.resources 3.dll</HintPath>
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 3.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 4">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 4.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 5">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 5.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 6">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 6.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 7">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 7.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 8">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 8.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources 9">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources 9.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Assets/Packages/ZedGraph.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>C:/Users/anthenry/Sources/OpenCV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
